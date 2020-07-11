@@ -8,6 +8,12 @@ So admittedly I'm a bit of a mixed bag of skills (which should hopefully speak t
 
 On top of all that, I'm capable of doing some content creation: some basic photoshopping, making & editing Youtube videos (both gaming and educational), and if you want me to help you produce a podcast along the way, I'm game!
 
+## You can find me at...
+
+* <a href="https://twitter.com/matthras">Twitter</a> 
+* <a href="https://www.linkedin.com/in/matthewypmack/">LinkedIn</a>
+* <a href="https://matthras.com">My personal blog</a>
+
 <!--
 **matthras/matthras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
