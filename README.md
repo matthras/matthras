@@ -1,4 +1,4 @@
-![](github_header_image.png)
+![](https://raw.githubusercontent.com/matthras/matthras/master/github_header_image.png)
 
 ## I'm looking for work!
 
