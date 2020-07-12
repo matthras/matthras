@@ -1,4 +1,4 @@
-<img src="github_header_image.png" alt="Header image for Matthew Mack's Github Profile" style="max-width: 100%;" />
+![](github_header_image.png)
 
 ## I'm looking for work!
 
