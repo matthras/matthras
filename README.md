@@ -1,3 +1,5 @@
+<img src="github_header_image.png" alt="Header image for Matthew Mack's Github Profile" style="max-width: 100%;;" />
+
 ## I'm looking for work!
 
 So admittedly I'm a bit of a mixed bag of skills (which should hopefully speak to my versatility!), but roles I'm looking out are (in):
